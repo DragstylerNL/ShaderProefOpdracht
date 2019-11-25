@@ -4,13 +4,13 @@ Games like Fire Emblem have special animation to transition the view from the ba
 
 ## Features
 
-- [Link name](link)
+- [My way of animating then fade by making use of the shader](https://github.com/DragstylerNL/ShaderProefOpdracht/blob/master/PRJCT_VLKR_PRFL/Assets/_Scripts/ActionSceneSwitch.cs)
 
 ## Software Analysis
 
 My personal choices of doing this project would be to either do it in Unreal or in Unity. In Unreal this would probably be easily doable due to being able to edit things fast but my preference goes to Unity as I already have a project where I wanna be able do use this system in. Unreal has many possibilities to edit shaders and create those with ease. Unreal is also really good at using and handling shaders and can be easy to work in due to the Unreal Blueprints. Unity on the other hand uses C# in which I have quite some experience in and would love to know how to edit shaders via code.
 
-Although a even more important thing too choose Unity over Unreal is that this project also contains and makes use of 2D-sprites. While Unreal is really good at handling 3D-objects and heavy shaders, Unity has more options for working with sprites and editing that I find easier to use. Unity has more effective and fast tools for making use of sprites and editing them 
+Although a even more important thing too choose Unity over Unreal is that this project also contains and makes use of 2D-sprites. While Unreal is really good at handling 3D-objects and heavy shaders, Unity has more options for working with sprites and editing that I find easier to use. Unity has more effective and fast tools for making use of sprites and editing them
 
 This makes Unity the given Engine to work in and do this project in for me.
 
